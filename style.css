@@ -1,0 +1,29 @@
+#Frontimage {
+    height: 500;
+}
+
+.gallery {
+
+    height: 145;
+    margin: 10;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: darkred;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 34px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 15px;
+}
